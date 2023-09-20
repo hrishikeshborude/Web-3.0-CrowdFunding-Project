@@ -2,7 +2,7 @@
 
 ## Technology
 
-This demo uses:
+This project uses:
 
 - Metamask
 - Hardhat
